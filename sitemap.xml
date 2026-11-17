@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://USERNAME.github.io/</loc></url>
-  <url><loc>https://USERNAME.github.io/profile.html</loc></url>
-  <url><loc>https://USERNAME.github.io/assistants.html</loc></url>
-  <url><loc>https://USERNAME.github.io/practicum.html</loc></url>
-  <url><loc>https://USERNAME.github.io/practicum.html?subject=rangkaian-listrik</loc></url>
-  <url><loc>https://USERNAME.github.io/practicum.html?subject=rangkaian-elektronika</loc></url>
-  <url><loc>https://USERNAME.github.io/practicum.html?subject=sistem-digital</loc></url>
-  <url><loc>https://USERNAME.github.io/achievement-training.html</loc></url>
-  <url><loc>https://USERNAME.github.io/media.html</loc></url>
+  <url><loc>https://<ACCOUNT>.github.io/</loc></url>
+  <url><loc>https://<ACCOUNT>.github.io/profile.html</loc></url>
+  <url><loc>https://<ACCOUNT>.github.io/assistants.html</loc></url>
+  <url><loc>https://<ACCOUNT>.github.io/practicum.html</loc></url>
+  <url><loc>https://<ACCOUNT>.github.io/practicum.html?subject=rangkaian-listrik</loc></url>
+  <url><loc>https://<ACCOUNT>.github.io/practicum.html?subject=rangkaian-elektronika</loc></url>
+  <url><loc>https://<ACCOUNT>.github.io/practicum.html?subject=sistem-digital</loc></url>
+  <url><loc>https://<ACCOUNT>.github.io/achievement-training.html</loc></url>
+  <url><loc>https://<ACCOUNT>.github.io/media.html</loc></url>
 </urlset>

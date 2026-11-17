@@ -1,0 +1,27 @@
+{
+  "intro": "Browse the assistant team by division and role. Select a division to display only its members.",
+  "divisions": [
+    { "id": "bph", "name": "BPH", "description": "[Short description of the BPH division]" },
+    { "id": "internal", "name": "Internal", "description": "[Short description of the Internal division]" },
+    { "id": "external", "name": "External", "description": "[Short description of the External division]" },
+    { "id": "media", "name": "Media", "description": "[Short description of the Media division]" },
+    { "id": "training", "name": "Training", "description": "[Short description of the Training division]" },
+    { "id": "riset", "name": "Riset", "description": "[Short description of the Riset division]" },
+    { "id": "praktikum", "name": "Praktikum", "description": "[Short description of the Praktikum division]" }
+  ],
+  "assistants": [
+    {
+      "name": "[FULL NAME]", "short": "[Short name]", "division": "bph", "role": "head", "cohort": "[2023]",
+      "quote": "[Short personal quote goes here.]", "photo": "", "tags": [],
+      "achievements": [ { "title": "[Achievement / certification]", "issuer": "[Issuer / event]", "year": "[Year]" } ]
+    },
+    {
+      "name": "[FULL NAME]", "short": "[Short name]", "division": "bph", "role": "expert", "cohort": "[2024]",
+      "quote": "[Short personal quote goes here.]", "photo": "", "tags": [], "achievements": []
+    },
+    {
+      "name": "[FULL NAME]", "short": "[Short name]", "division": "bph", "role": "staff", "cohort": "[2024]",
+      "quote": "[Short personal quote goes here.]", "photo": "", "tags": [], "achievements": []
+    }
+  ]
+}

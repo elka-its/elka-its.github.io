@@ -1,0 +1,48 @@
+{
+  "name": "Laboratorium Mikroelektronika dan Sistem Tertanam",
+  "shortName": "Laboratorium Mikroelektronika dan Sistem Tertanam",
+  "institution": "Departemen Teknik Elektro · Institut Teknologi Sepuluh Nopember",
+  "badge": "Engineering Lab",
+  "tagline": "[A short statement describing the lab's focus]",
+  "description": "[A concise 2–4 sentence introduction describing the laboratory, its academic role, and its focus areas.]",
+  "logo": "images/logo.png",
+  "siteUrl": "",
+  "cta": {
+    "primary": {
+      "label": "Explore the Lab",
+      "href": "profile.html"
+    },
+    "secondary": {
+      "label": "View Practicum",
+      "href": "practicum.html"
+    }
+  },
+  "intro": {
+    "title": "About the laboratory",
+    "text": "[A concise paragraph explaining the laboratory's field, role, and core activities. Full details belong on the Lab Profile page.]",
+    "highlights": [
+      {
+        "value": "3",
+        "label": "Practicum subjects"
+      },
+      {
+        "value": "7",
+        "label": "Assistant divisions"
+      },
+      {
+        "value": "16",
+        "label": "Weeks per practicum"
+      }
+    ]
+  },
+  "showFeatured": true,
+  "contact": {
+    "email": "",
+    "phone": "",
+    "instagram": "https://www.instagram.com/electronics.its/",
+    "instagramLabel": "@electronics.its",
+    "linkedin": "",
+    "linkedinLabel": ""
+  },
+  "footerNote": ""
+}

@@ -1,0 +1,73 @@
+{
+  "intro": "A clear introduction to the laboratory, its academic role, history, location, vision and mission.",
+  "overview": {
+    "field": "Microelectronics & Embedded Systems",
+    "role": "[Role of the laboratory within the department]",
+    "text": "[Concise introduction of the laboratory — 1 to 2 paragraphs.]"
+  },
+  "photo": {
+    "src": "",
+    "alt": "Laboratory / facility photo"
+  },
+  "history": [
+    {
+      "year": "[YEAR]",
+      "title": "Established",
+      "text": "[Founding background]"
+    },
+    {
+      "year": "[YEAR]",
+      "title": "Major milestone",
+      "text": "[Milestone description]"
+    },
+    {
+      "year": "[YEAR]",
+      "title": "Current development",
+      "text": "[Current development]"
+    }
+  ],
+  "location": {
+    "building": "Gedung AJ",
+    "room": "Room AJ-303 (3rd floor)",
+    "campus": "Departemen Teknik Elektro, Institut Teknologi Sepuluh Nopember",
+    "address": "Kampus ITS Keputih, Sukolilo, Surabaya 60111, Indonesia",
+    "directions": "",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gedung+AJ+Departemen+Teknik+Elektro+ITS+Surabaya",
+    "mapEmbed": "",
+    "photo": ""
+  },
+  "vision": "[Approved vision statement of the laboratory.]",
+  "mission": [
+    "[Approved mission point 1]",
+    "[Approved mission point 2]",
+    "[Approved mission point 3]"
+  ],
+  "head": {
+    "name": "Dr. Eng. Ir. Totok Mujiono, M.IKom.",
+    "position": "Head of Laboratory",
+    "photo": "",
+    "bio": "Dr. Eng. Ir. Totok Mujiono, M.IKom. is a lecturer in the Electronics Engineering group of the Departemen Teknik Elektro, Institut Teknologi Sepuluh Nopember, and leads the Laboratorium Mikroelektronika dan Sistem Tertanam. He completed his undergraduate studies in electrical engineering (electronics) at ITS, a master's degree in computer science at Universitas Indonesia, and a doctorate in physical electronics at the Tokyo Institute of Technology.\n\nHis research centres on biosensor engineering with quartz crystal microbalance (QCM) and optical transducers for gas and liquid detection — including graphene-coated QCM sensors for volatile organic compounds, QCM sensor arrays for odour detection, and fluorescence-based optical biosensors. He also develops sensor electronics and low-power, portable microprocessor- and FPGA-based sensor systems.",
+    "expertise": [
+      "Biosensors",
+      "Quartz crystal microbalance (QCM) sensors",
+      "Optical transducers",
+      "Gas & odour sensing",
+      "Lock-in techniques",
+      "FPGA-based sensor systems"
+    ],
+    "links": [
+      {
+        "label": "Campus profile",
+        "url": "https://www.its.ac.id/telektro/en/lecturer-and-staff/lecturer/lecturer-electronic-engineering/totokmujiono/"
+      },
+      {
+        "label": "ITS Scholar",
+        "url": "https://scholar.its.ac.id/en/persons/totok-mujiono/"
+      },
+      {
+        "label": "SINTA",
+        "url": "https://sinta.kemdiktisaintek.go.id/authors/profile/6198025"
+      }
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "intro": "A visual archive of practicum sessions, assistant activities, training, research, and laboratory events.",
+  "filters": ["Practicum", "Training", "Research", "Meetings", "Events"],
+  "albums": [
+    {
+      "id": "practicum-session",
+      "title": "Practicum Session",
+      "date": "[Date]",
+      "category": "Practicum",
+      "description": "[Short context about what happened and who was involved.]",
+      "cover": "",
+      "credit": "",
+      "items": [
+        { "src": "", "caption": "[Photo caption]" },
+        { "src": "", "caption": "[Photo caption]" },
+        { "src": "", "caption": "[Photo caption]" }
+      ]
+    },
+    {
+      "id": "laboratory-activity",
+      "title": "Laboratory Activity",
+      "date": "[Date]",
+      "category": "Events",
+      "description": "[Short context about what happened and who was involved.]",
+      "cover": "",
+      "credit": "",
+      "items": []
+    },
+    {
+      "id": "internal-training",
+      "title": "Internal Training",
+      "date": "[Date]",
+      "category": "Training",
+      "description": "[Short context about what happened and who was involved.]",
+      "cover": "",
+      "credit": "",
+      "items": []
+    },
+    {
+      "id": "research-documentation",
+      "title": "Research Documentation",
+      "date": "[Date]",
+      "category": "Research",
+      "description": "[Short context about what happened and who was involved.]",
+      "cover": "",
+      "credit": "",
+      "items": []
+    },
+    {
+      "id": "assistant-gathering",
+      "title": "Assistant Gathering",
+      "date": "[Date]",
+      "category": "Meetings",
+      "description": "[Short context about what happened and who was involved.]",
+      "cover": "",
+      "credit": "",
+      "items": []
+    },
+    {
+      "id": "external-event",
+      "title": "External Event",
+      "date": "[Date]",
+      "category": "Events",
+      "description": "[Short context about what happened and who was involved.]",
+      "cover": "",
+      "credit": "",
+      "items": []
+    }
+  ]
+}

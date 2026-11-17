@@ -1,0 +1,59 @@
+{
+  "intro": "One category selector controls the visible content. Choose Achievements, Internal Training, or External Training.",
+  "categories": {
+    "achievements": {
+      "label": "Achievements",
+      "intro": "[Short introduction to the laboratory's awards, competition results, recognitions, publications, grants, and certifications.]"
+    },
+    "internal-training": {
+      "label": "Internal Training",
+      "intro": "[Short introduction to training organized for members and assistants within the laboratory.]"
+    },
+    "external-training": {
+      "label": "External Training",
+      "intro": "[Short introduction to training, workshops, and capacity-building activities conducted for or with external participants.]"
+    }
+  },
+  "achievements": [
+    {
+      "title": "[Achievement / award name]",
+      "category": "[Competition / Publication / Grant / Certification]",
+      "date": "[Year]",
+      "recipient": "[Laboratory / assistant / team]",
+      "organizer": "[Awarding body / organizer]",
+      "description": "[Short explanation of the achievement and its significance.]",
+      "image": "",
+      "evidence": []
+    }
+  ],
+  "training": [
+    {
+      "title": "[Internal training title]",
+      "type": "internal",
+      "status": "",
+      "startDate": "[Date]",
+      "endDate": "",
+      "duration": "[Duration]",
+      "organizer": "[Organizer / trainer]",
+      "audience": "[Audience / participants]",
+      "overview": "[Purpose and key topics.]",
+      "outcomes": "[Expected or achieved outcomes.]",
+      "image": "",
+      "resources": []
+    },
+    {
+      "title": "[External training title]",
+      "type": "external",
+      "status": "",
+      "startDate": "[Date]",
+      "endDate": "",
+      "duration": "[Duration]",
+      "organizer": "[Organizer / partner]",
+      "audience": "[Audience / participants]",
+      "overview": "[Purpose and key topics.]",
+      "outcomes": "[Expected or achieved outcomes.]",
+      "image": "",
+      "resources": []
+    }
+  ]
+}

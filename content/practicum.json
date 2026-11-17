@@ -1,0 +1,227 @@
+{
+  "intro": "Select a practicum subject to see its learning objectives, supporting theory, modules, documentation, and 16-week agenda.",
+  "subjects": [
+    {
+      "id": "rangkaian-listrik",
+      "name": "Rangkaian Listrik",
+      "nameEn": "Electrical Circuits",
+      "description": "Understanding the application of basic electrical circuit theory.",
+      "scope": "[Scope of the practicum]",
+      "courseRole": "[Role of the practicum in the related course / program]",
+      "objectives": [
+        "[Learning objective 1]",
+        "[Learning objective 2]",
+        "[Learning objective 3]"
+      ],
+      "investigates": [
+        "[Concept, phenomenon, or electrical circuit behavior students analyze, test, and verify]"
+      ],
+      "theory": [
+        {
+          "title": "[Theory / principle]",
+          "text": "[Key principles, equations, models, and supporting theory used to explain the experiments.]",
+          "formula": ""
+        }
+      ],
+      "resources": [],
+      "modules": [
+        {
+          "title": "[Module 1 title]",
+          "description": "[Experiment description]",
+          "equipment": [
+            "[Equipment / software]"
+          ]
+        }
+      ],
+      "safety": [],
+      "photos": [
+        {
+          "src": "",
+          "caption": "Experiment photo"
+        },
+        {
+          "src": "",
+          "caption": "Equipment photo"
+        },
+        {
+          "src": "",
+          "caption": "Student activity"
+        }
+      ],
+      "agenda": [
+        { "week": 1, "topic": "", "date": "", "notes": "", "status": "" },
+        { "week": 2, "topic": "", "date": "", "notes": "", "status": "" },
+        { "week": 3, "topic": "", "date": "", "notes": "", "status": "" },
+        { "week": 4, "topic": "", "date": "", "notes": "", "status": "" },
+        { "week": 5, "topic": "", "date": "", "notes": "", "status": "" },
+        { "week": 6, "topic": "", "date": "", "notes": "", "status": "" },
+        { "week": 7, "topic": "", "date": "", "notes": "", "status": "" },
+        { "week": 8, "topic": "", "date": "", "notes": "", "status": "" },
+        { "week": 9, "topic": "", "date": "", "notes": "", "status": "" },
+        { "week": 10, "topic": "", "date": "", "notes": "", "status": "" },
+        { "week": 11, "topic": "", "date": "", "notes": "", "status": "" },
+        { "week": 12, "topic": "", "date": "", "notes": "", "status": "" },
+        { "week": 13, "topic": "", "date": "", "notes": "", "status": "" },
+        { "week": 14, "topic": "", "date": "", "notes": "", "status": "" },
+        { "week": 15, "topic": "", "date": "", "notes": "", "status": "" },
+        { "week": 16, "topic": "", "date": "", "notes": "", "status": "" }
+      ],
+      "info": {
+        "period": "[Practicum period]",
+        "venue": "[Venue]",
+        "requirements": "[Participant requirements]",
+        "contact": "[Contact channel]",
+        "announcements": [],
+        "downloads": []
+      }
+    },
+    {
+      "id": "rangkaian-elektronika",
+      "name": "Rangkaian Elektronika",
+      "nameEn": "Electronic Circuits",
+      "description": "Understanding basic electronic circuit theory — especially semiconductor devices — through applications.",
+      "scope": "[Scope of the practicum]",
+      "courseRole": "[Role of the practicum in the related course / program]",
+      "objectives": [
+        "[Learning objective 1]",
+        "[Learning objective 2]",
+        "[Learning objective 3]"
+      ],
+      "investigates": [
+        "[Concept, phenomenon, or electronic circuit behavior students analyze, test, and verify]"
+      ],
+      "theory": [
+        {
+          "title": "[Theory / principle]",
+          "text": "[Key principles, equations, models, and supporting theory used to explain the experiments.]",
+          "formula": ""
+        }
+      ],
+      "resources": [],
+      "modules": [
+        {
+          "title": "[Module 1 title]",
+          "description": "[Experiment description]",
+          "equipment": [
+            "[Equipment / software]"
+          ]
+        }
+      ],
+      "safety": [],
+      "photos": [
+        {
+          "src": "",
+          "caption": "Experiment photo"
+        },
+        {
+          "src": "",
+          "caption": "Equipment photo"
+        },
+        {
+          "src": "",
+          "caption": "Student activity"
+        }
+      ],
+      "agenda": [
+        { "week": 1, "topic": "", "date": "", "notes": "", "status": "" },
+        { "week": 2, "topic": "", "date": "", "notes": "", "status": "" },
+        { "week": 3, "topic": "", "date": "", "notes": "", "status": "" },
+        { "week": 4, "topic": "", "date": "", "notes": "", "status": "" },
+        { "week": 5, "topic": "", "date": "", "notes": "", "status": "" },
+        { "week": 6, "topic": "", "date": "", "notes": "", "status": "" },
+        { "week": 7, "topic": "", "date": "", "notes": "", "status": "" },
+        { "week": 8, "topic": "", "date": "", "notes": "", "status": "" },
+        { "week": 9, "topic": "", "date": "", "notes": "", "status": "" },
+        { "week": 10, "topic": "", "date": "", "notes": "", "status": "" },
+        { "week": 11, "topic": "", "date": "", "notes": "", "status": "" },
+        { "week": 12, "topic": "", "date": "", "notes": "", "status": "" },
+        { "week": 13, "topic": "", "date": "", "notes": "", "status": "" },
+        { "week": 14, "topic": "", "date": "", "notes": "", "status": "" },
+        { "week": 15, "topic": "", "date": "", "notes": "", "status": "" },
+        { "week": 16, "topic": "", "date": "", "notes": "", "status": "" }
+      ],
+      "info": {
+        "period": "[Practicum period]",
+        "venue": "[Venue]",
+        "requirements": "[Participant requirements]",
+        "contact": "[Contact channel]",
+        "announcements": [],
+        "downloads": []
+      }
+    },
+    {
+      "id": "sistem-digital",
+      "name": "Sistem Digital",
+      "nameEn": "Digital Systems",
+      "description": "Applying digital logic circuits to build working systems.",
+      "scope": "[Scope of the practicum]",
+      "courseRole": "[Role of the practicum in the related course / program]",
+      "objectives": [
+        "[Learning objective 1]",
+        "[Learning objective 2]",
+        "[Learning objective 3]"
+      ],
+      "investigates": [
+        "[Concept, phenomenon, or digital logic / digital system behavior students analyze, test, and verify]"
+      ],
+      "theory": [
+        {
+          "title": "[Theory / principle]",
+          "text": "[Key principles, equations, models, and supporting theory used to explain the experiments.]",
+          "formula": ""
+        }
+      ],
+      "resources": [],
+      "modules": [
+        {
+          "title": "[Module 1 title]",
+          "description": "[Experiment description]",
+          "equipment": [
+            "[Equipment / software]"
+          ]
+        }
+      ],
+      "safety": [],
+      "photos": [
+        {
+          "src": "",
+          "caption": "Experiment photo"
+        },
+        {
+          "src": "",
+          "caption": "Equipment photo"
+        },
+        {
+          "src": "",
+          "caption": "Student activity"
+        }
+      ],
+      "agenda": [
+        { "week": 1, "topic": "", "date": "", "notes": "", "status": "" },
+        { "week": 2, "topic": "", "date": "", "notes": "", "status": "" },
+        { "week": 3, "topic": "", "date": "", "notes": "", "status": "" },
+        { "week": 4, "topic": "", "date": "", "notes": "", "status": "" },
+        { "week": 5, "topic": "", "date": "", "notes": "", "status": "" },
+        { "week": 6, "topic": "", "date": "", "notes": "", "status": "" },
+        { "week": 7, "topic": "", "date": "", "notes": "", "status": "" },
+        { "week": 8, "topic": "", "date": "", "notes": "", "status": "" },
+        { "week": 9, "topic": "", "date": "", "notes": "", "status": "" },
+        { "week": 10, "topic": "", "date": "", "notes": "", "status": "" },
+        { "week": 11, "topic": "", "date": "", "notes": "", "status": "" },
+        { "week": 12, "topic": "", "date": "", "notes": "", "status": "" },
+        { "week": 13, "topic": "", "date": "", "notes": "", "status": "" },
+        { "week": 14, "topic": "", "date": "", "notes": "", "status": "" },
+        { "week": 15, "topic": "", "date": "", "notes": "", "status": "" },
+        { "week": 16, "topic": "", "date": "", "notes": "", "status": "" }
+      ],
+      "info": {
+        "period": "[Practicum period]",
+        "venue": "[Venue]",
+        "requirements": "[Participant requirements]",
+        "contact": "[Contact channel]",
+        "announcements": [],
+        "downloads": []
+      }
+    }
+  ]
+}
